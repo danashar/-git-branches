@@ -1,3 +1,4 @@
+FEATURE2 new line
 This is a fancy first line
 line 2
 line 3
